@@ -1,2 +1,1 @@
-# testuta
-Test repo for UTA boot camp
+# UT-MCC-DATA-PT-01-2020-U-C
